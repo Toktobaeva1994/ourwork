@@ -1,3 +1,130 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "efv2efv",
+      "description": "gt4tg45",
+      "price": null,
+      "picture": "gt45",
+      "id": 1
+    },
+    {
+      "name": "Зинаида",
+      "description": "gt4tg45",
+      "price": 574,
+      "picture": "trbt",
+      "id": 2
+    },
+    {
+      "name": "strli",
+      "description": "tggg34",
+      "price": 432,
+      "picture": "vger",
+      "id": 3
+    },
+    {
+      "name": "strli",
+      "description": "tggg34",
+      "price": 432,
+      "picture": "vger",
+      "id": 4
+    },
+    {
+      "name": "g34g",
+      "description": "4g3",
+      "price": 4543,
+      "picture": "vberv",
+      "id": 5
+    },
+    {
+      "name": "g34g",
+      "description": "4g3",
+      "price": 4543,
+      "picture": "vberv",
+      "id": 6
+    },
+    {
+      "name": "g34g",
+      "description": "4g3",
+      "price": 4543,
+      "picture": "vberv",
+      "id": 7
+    },
+    {
+      "name": "g34g",
+      "description": "4g3",
+      "price": 4543,
+      "picture": "vberv",
+      "id": 8
+    },
+    {
+      "name": "g34g",
+      "description": "4g3",
+      "price": 4543,
+      "picture": "vberv",
+      "id": 9
+    },
+    {
+      "name": "r3f3g4t",
+      "description": "43ggt",
+      "price": null,
+      "picture": "gt43",
+      "id": 10
+    },
+    {
+      "name": "r3f3g4t",
+      "description": "43ggt",
+      "price": null,
+      "picture": "gt43",
+      "id": 11
+    },
+    {
+      "name": "r3f3g4t",
+      "description": "43ggt",
+      "price": null,
+      "picture": "gt43",
+      "id": 12
+    },
+    {
+      "name": "r3f3g4t",
+      "description": "43ggt",
+      "price": null,
+      "picture": "gt43",
+      "id": 13
+    },
+    {
+      "name": "rtv3tv",
+      "description": "vb4",
+      "price": null,
+      "picture": "4TB",
+      "id": 14
+    },
+    {
+      "name": "rtv3tv",
+      "description": "vb4",
+      "price": null,
+      "picture": "4TB",
+      "id": 15
+    },
+    {
+      "name": "rtv3tv",
+      "description": "vb4",
+      "price": null,
+      "picture": "4TB",
+      "id": 16
+    },
+    {
+      "name": "4GF43GT",
+      "description": "4TRG4",
+      "price": null,
+      "picture": "4RG",
+      "id": 17
+    },
+    {
+      "name": "4GF43GT",
+      "description": "4TRG4",
+      "price": null,
+      "picture": "4RG",
+      "id": 18
+    }
+  ]
 }

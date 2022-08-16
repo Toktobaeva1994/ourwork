@@ -1,4 +1,4 @@
-import ProductContextProvider from "./components/context/ProductContext";
+import ProductContextProvider from "./components/context/ProductContext.js";
 import MainRoutes from "./MainRoutes";
 
 function App() {
