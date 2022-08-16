@@ -20,13 +20,13 @@ const ProductContextProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, INIT_STATE);
 
   const addProduct = async (newProduct) => {
-    await axios.post("http://loproductscalhost:8000/", newProduct);
+    await axios.post(" http://localhost:8000/products", newProduct);
     getProducts();
   };
 
   const getProducts = async () => {
     const { data } = await axios(
-      `${"http://loproductscalhost:8000/"}/${window.location.search}`
+      `${"http://localhost:8000/products"}/${window.location.search}`
     );
 
     dispatch({
@@ -36,7 +36,9 @@ const ProductContextProvider = ({ children }) => {
   };
 
   return (
-    <productContext.Provider value={{ addProduct, getProducts }}>
+    <productContext.Provider
+      value={{ addProduct, getProducts, products: state.products }}
+    >
       {children}
     </productContext.Provider>
   );
