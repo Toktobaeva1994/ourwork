@@ -25,19 +25,31 @@ const ProductContextProvider = ({ children }) => {
   };
 
   const getProducts = async () => {
-    const { data } = await axios(
-      `${"http://localhost:8000/products"}/${window.location.search}`
-    );
+    const { data } = await axios(`
+      ${"http://localhost:8000/products"}/${window.location.search}`);
 
     dispatch({
       type: "GET_PRODUCTS",
       payload: data,
     });
   };
+  const deleteProduct = async (id) => {
+    await axios.delete(`${"http://localhost:8000/products"}/${id}`);
+    getProducts();
+  };
 
   return (
     <productContext.Provider
-      value={{ addProduct, getProducts, products: state.products }}
+      value={{
+        getProducts,
+        addProduct,
+        deleteProduct,
+        // getProductDetails,
+        // saveEditedProduct,
+        // fetchByParams,
+
+        products: state.products,
+      }}
     >
       {children}
     </productContext.Provider>

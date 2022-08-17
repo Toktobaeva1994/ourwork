@@ -1,130 +1,32 @@
 {
   "products": [
     {
-      "name": "efv2efv",
-      "description": "gt4tg45",
-      "price": null,
-      "picture": "gt45",
+      "name": "iPhone 12 Pro",
+      "description": "4TRG4",
+      "price": 800,
+      "picture": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020.jpg.landing-big_2x.jpg",
       "id": 1
     },
     {
-      "name": "Зинаида",
-      "description": "gt4tg45",
-      "price": 574,
-      "picture": "trbt",
+      "name": "ib4ytb%#",
+      "description": "4TRG4",
+      "price": 800,
+      "picture": "https://s2.glbimg.com/OzYcygkR_NSGAFrZCOUBCR6d03o=/0x0:1280x720/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/j/7/UZyqxJS2OyCWizx6mD2Q/saiba-tudo-sobre-as-quatro-versoes-do-iphone-12-abre.png",
       "id": 2
     },
     {
-      "name": "strli",
-      "description": "tggg34",
-      "price": 432,
-      "picture": "vger",
+      "name": "ihbkjhbjh",
+      "description": "4TRG4",
+      "price": 400,
+      "picture": "https://s2.glbimg.com/OzYcygkR_NSGAFrZCOUBCR6d03o=/0x0:1280x720/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/j/7/UZyqxJS2OyCWizx6mD2Q/saiba-tudo-sobre-as-quatro-versoes-do-iphone-12-abre.png",
       "id": 3
     },
     {
-      "name": "strli",
-      "description": "tggg34",
-      "price": 432,
-      "picture": "vger",
+      "name": "ihbkjjhbjh",
+      "description": "4TRkG4",
+      "price": 800,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqy-Ghd3D9hNCaMo-Csiqo8k-kVKMsJPH3w&usqp=CAU",
       "id": 4
-    },
-    {
-      "name": "g34g",
-      "description": "4g3",
-      "price": 4543,
-      "picture": "vberv",
-      "id": 5
-    },
-    {
-      "name": "g34g",
-      "description": "4g3",
-      "price": 4543,
-      "picture": "vberv",
-      "id": 6
-    },
-    {
-      "name": "g34g",
-      "description": "4g3",
-      "price": 4543,
-      "picture": "vberv",
-      "id": 7
-    },
-    {
-      "name": "g34g",
-      "description": "4g3",
-      "price": 4543,
-      "picture": "vberv",
-      "id": 8
-    },
-    {
-      "name": "g34g",
-      "description": "4g3",
-      "price": 4543,
-      "picture": "vberv",
-      "id": 9
-    },
-    {
-      "name": "r3f3g4t",
-      "description": "43ggt",
-      "price": null,
-      "picture": "gt43",
-      "id": 10
-    },
-    {
-      "name": "r3f3g4t",
-      "description": "43ggt",
-      "price": null,
-      "picture": "gt43",
-      "id": 11
-    },
-    {
-      "name": "r3f3g4t",
-      "description": "43ggt",
-      "price": null,
-      "picture": "gt43",
-      "id": 12
-    },
-    {
-      "name": "r3f3g4t",
-      "description": "43ggt",
-      "price": null,
-      "picture": "gt43",
-      "id": 13
-    },
-    {
-      "name": "rtv3tv",
-      "description": "vb4",
-      "price": null,
-      "picture": "4TB",
-      "id": 14
-    },
-    {
-      "name": "rtv3tv",
-      "description": "vb4",
-      "price": null,
-      "picture": "4TB",
-      "id": 15
-    },
-    {
-      "name": "rtv3tv",
-      "description": "vb4",
-      "price": null,
-      "picture": "4TB",
-      "id": 16
-    },
-    {
-      "name": "4GF43GT",
-      "description": "4TRG4",
-      "price": null,
-      "picture": "4RG",
-      "id": 17
-    },
-    {
-      "name": "4GF43GT",
-      "description": "4TRG4",
-      "price": null,
-      "picture": "4RG",
-      "id": 18
     }
   ]
 }

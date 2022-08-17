@@ -7,23 +7,19 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 // import { useProducts } from "../../contexts/ProductContext";
 import { useNavigate } from "react-router-dom";
-import { useProducts } from "./context/ProductContext";
-
-// import ShoppingCartRoundedIcon from "@mui/icons-material/ShoppingCartRounded";
+import { useProducts } from "../context/ProductContext";
 // import { IconButton } from "@mui/material";
-// import { useCart } from "../../contexts/CartContextProvider";
 
 export default function ProductCard({ item }) {
   const { deleteProduct } = useProducts();
-  //   const { addProductToCart, checkProductInCart } = useCart();
 
   const navigate = useNavigate();
 
   return (
-    <Card sx={{ width: 300, m: 3 }}>
+    <Card sx={{ width: 400, height: 370, m: 3 }}>
       <CardMedia
         component="img"
-        height="140"
+        height="180"
         image={item.picture}
         alt="green iguana"
       />
